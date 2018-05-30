@@ -1,0 +1,2 @@
+This file needs to be here to get the seqdist subfolder to be added to git,
+which in turn is needed in order to pip install properly.
