@@ -7,9 +7,7 @@ MSAs.
 Usage
 -----
 
-Calculate the pairwise percent identity between aligned sequences. Currently
-does NOT support a2m format (containing lowercase unaligned residues), so make
-sure to input a cleaned alignment (``sparalign.py`` output option ``-a``). ::
+Calculate the pairwise percent identity between aligned sequences. ::
 
     $ seqdist.py aligned_seqs.afa -o aligned_seqs.dist
 
